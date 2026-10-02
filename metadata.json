@@ -1,0 +1,6 @@
+{
+  "name": "Assistente de Liminar Cível",
+  "description": "Ferramenta de análise jurídica FIRAC e minuta de decisões liminares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
